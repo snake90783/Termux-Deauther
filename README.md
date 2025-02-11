@@ -9,4 +9,4 @@ pkg install python3 -y
 git clone https://github.com/Termux-Deauther.git
 cd Termux-Deauther
 Then, Type
-python3 Deauther18.bin
+bash deathr18
