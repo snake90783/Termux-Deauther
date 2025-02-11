@@ -1,0 +1,9 @@
+clear
+echo Creating DataWheel
+echo 0x127 0x1871 0x1961 0x17628 0x198 > data.wheel
+sleep 2
+echo Opening Deauther18 Advanced...
+sleep 4
+clear
+python3 Deauther18.bin
+
