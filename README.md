@@ -6,7 +6,7 @@ pkg update -y
 pkg upgrade -y
 pkg install git -y
 pkg install python3 -y
-After Downloading Deauther18.bin
-Open The Download Directory
+git clone https://github.com/Termux-Deauther.git
+cd Termux-Deauther
 Then, Type
 python3 Deauther18.bin
