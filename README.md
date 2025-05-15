@@ -1,4 +1,4 @@
-Install Termux To Your Phone From F-Droid
+ Install Termux To Your Phone From F-Droid
 Termux Apk Link:https://f-droid.org/en/packages/com.termux/
 Open Termux App
 In Termux Enter The Following Commands:
